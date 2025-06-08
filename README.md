@@ -95,7 +95,8 @@ qemu-system-riscv32 -nographic -kernel hello.elf
 ```
 
 ![Image alt](https://github.com/Aryan2632/vsdRiscvSoc/blob/a8a0ac0c7ac799dff3afacfabe9ca60891858c24/Images/image12.jpg)
-![Image alt]()
+![Image alt](https://github.com/Aryan2632/vsdRiscvSoc/blob/2d00752c97879654a73629e5f12ec8250785c7f6/Images/image2.jpg)
+
 ## 8. GCC Optimization
 
 ```bash
@@ -103,7 +104,7 @@ riscv32-unknown-elf-gcc -O0 -S hello.c -o O0.s
 riscv32-unknown-elf-gcc -O2 -S hello.c -o O2.s
 ```
 
-![Image](assets/image16.jpg)
+![Image alt]()
 
 ## 9. Inline Assembly
 
