@@ -137,7 +137,7 @@ SECTIONS {
 }
 ```
 
-![Image alt]()
+![Image alt](https://github.com/Aryan2632/vsdRiscvSoc/blob/83d0f5a67e52b4d80810cda6bc8b41c5351d13af/Images/image10.jpg)
 
 ## 12. Startup Code (crt0.S)
 
@@ -146,7 +146,7 @@ SECTIONS {
 - Call `main()`
 - Infinite loop
 
-![Image](assets/image2.jpg)
+![Image alt]()
 
 ## 13. Timer Interrupt
 
