@@ -155,7 +155,7 @@ SECTIONS {
 - Enable `mie`, `mstatus`
 - Use `__attribute__((interrupt))`
 
-![Image alt]()
+![Image alt](https://github.com/Aryan2632/vsdRiscvSoc/blob/7a3649d6fe9b6df1ac3ee7f79a43f59badeecccf/Images/image9.jpg)
 
 ## 14. Atomic 'A' Extension
 
@@ -163,7 +163,7 @@ Instructions: `lr.w`, `sc.w`, `amoadd.w`, etc.
 
 Used for: Spinlocks, mutexes, semaphores
 
-![Image](assets/image3.png)
+![Image alt]()
 
 ## 15. Atomic Test Program
 
