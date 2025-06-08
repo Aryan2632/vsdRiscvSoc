@@ -94,8 +94,8 @@ spike --isa=rv32imc pk hello.elf
 qemu-system-riscv32 -nographic -kernel hello.elf
 ```
 
+![Image alt](https://github.com/Aryan2632/vsdRiscvSoc/blob/a8a0ac0c7ac799dff3afacfabe9ca60891858c24/Images/image12.jpg)
 ![Image alt]()
-
 ## 8. GCC Optimization
 
 ```bash
