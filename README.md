@@ -49,7 +49,7 @@ sw s0, 8(sp)
 addi s0, sp, 16
 ```
 
-![Image](assets/image11.jpg)
+![Image alt](https://github.com/Aryan2632/vsdRiscvSoc/blob/9d9a8c075dc31eea662c7c5551f0f8b703bbc285/Images/image1.jpg)
 
 ## 4. Hex Dump & Disassembly
 
