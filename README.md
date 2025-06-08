@@ -163,7 +163,6 @@ Instructions: `lr.w`, `sc.w`, `amoadd.w`, etc.
 
 Used for: Spinlocks, mutexes, semaphores
 
-![Image alt]()
 
 ## 15. Atomic Test Program
 
@@ -178,7 +177,8 @@ while (1) {
 }
 ```
 
-![Image](assets/image4.jpg)
+![Image alt]()
+![Image alt]()
 
 ## 16. Newlib printf Without OS
 
