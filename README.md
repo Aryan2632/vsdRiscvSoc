@@ -59,7 +59,7 @@ riscv32-unknown-elf-objcopy -O ihex hello.elf hello.hex
 ```
 
 ![Image alt](https://github.com/Aryan2632/vsdRiscvSoc/blob/c6af0f14ead338576c6221b1c82d050fcb592529/Images/image15.jpg)
-![Image alt]()
+![Image alt](https://github.com/Aryan2632/vsdRiscvSoc/blob/99fcf5c388519d1cb732421ba4c60732d24f744f/Images/image6.jpg)
 
 ## 5. RISC-V Register ABI
 
