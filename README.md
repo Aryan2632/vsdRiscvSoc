@@ -147,7 +147,7 @@ SECTIONS {
 - Infinite loop
 
 ![Image alt](https://github.com/Aryan2632/vsdRiscvSoc/blob/77db721569cc06aecc9680e5fdf3caf28a6aa68e/Images/image19.png)
-![Image alt]()
+![Image alt](https://github.com/Aryan2632/vsdRiscvSoc/blob/c7bd3bcfd2b314f42e1e97cb09828929cc598bd8/Images/image20.png)
 
 ## 13. Timer Interrupt
 
@@ -155,7 +155,7 @@ SECTIONS {
 - Enable `mie`, `mstatus`
 - Use `__attribute__((interrupt))`
 
-![Image](assets/image20.png)
+![Image alt]()
 
 ## 14. Atomic 'A' Extension
 
