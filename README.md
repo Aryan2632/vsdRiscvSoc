@@ -178,7 +178,7 @@ while (1) {
 ```
 
 ![Image alt](https://github.com/Aryan2632/vsdRiscvSoc/blob/1e1b3e04da2f0bd7e696a59b12e4be261540a8a9/Images/image3.png)
-![Image alt]()
+![Image alt](https://github.com/Aryan2632/vsdRiscvSoc/blob/a5bf615f41d7e5aafb39da486c7dba335adb88a0/Images/image14.png)
 
 ## 16. Newlib printf Without OS
 
