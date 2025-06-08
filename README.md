@@ -146,6 +146,7 @@ SECTIONS {
 - Call `main()`
 - Infinite loop
 
+![Image alt](https://github.com/Aryan2632/vsdRiscvSoc/blob/77db721569cc06aecc9680e5fdf3caf28a6aa68e/Images/image19.png)
 ![Image alt]()
 
 ## 13. Timer Interrupt
