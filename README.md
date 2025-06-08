@@ -191,7 +191,6 @@ int _write(int fd, const char* buf, int len) {
 }
 ```
 
-![Image](assets/image5.jpg)
 
 ## 17. Endianness & Struct Packing
 
@@ -205,5 +204,5 @@ printf("%x %x %x %x\n", u.b[0], u.b[1], u.b[2], u.b[3]);
 ```
 Expected output: `04 03 02 01` (Little Endian)
 
-![Image](assets/image6.jpg)
+![Image alt](https://github.com/Aryan2632/vsdRiscvSoc/blob/14140da8f990015ca6ea72c84e57b4f4b0e551ff/Images/image18.jpg)
 
