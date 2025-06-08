@@ -117,7 +117,7 @@ static inline uint32_t rdcycle(void) {
 }
 ```
 
-![Image alt]()
+![Image alt](https://github.com/Aryan2632/vsdRiscvSoc/blob/e1fc039ad230506eb8b2b4408494e9f25385edd5/Images/image13.jpg)
 
 ## 10. Memory-Mapped I/O
 
@@ -126,7 +126,7 @@ volatile uint32_t* gpio = (uint32_t*)0x10012000;
 *gpio = 0x1;
 ```
 
-![Image](assets/image18.jpg)
+![Image alt]()
 
 ## 11. Linker Script Basics
 
