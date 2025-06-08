@@ -105,7 +105,7 @@ riscv32-unknown-elf-gcc -O2 -S hello.c -o O2.s
 ```
 
 ![Image alt](https://github.com/Aryan2632/vsdRiscvSoc/blob/6f7843e2d06636da896d75b2eb5833aaff92f7d1/Images/image5.jpg)
-![Image alt]()
+![Image alt](https://github.com/Aryan2632/vsdRiscvSoc/blob/c178ba8cd333465651e3708a048e46d53e749a5a/Images/image16.jpg)
 
 ## 9. Inline Assembly
 
@@ -117,7 +117,7 @@ static inline uint32_t rdcycle(void) {
 }
 ```
 
-![Image](assets/image17.jpg)
+![Image alt]()
 
 ## 10. Memory-Mapped I/O
 
