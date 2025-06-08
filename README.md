@@ -16,7 +16,7 @@ riscv32-unknown-elf-objdump --version
 riscv32-unknown-elf-gdb --version
 ```
 
-![Image](assets/https://github.com/Aryan2632/vsdRiscvSoc/blob/a332855ba537f0872d583cadbea23018801c4264/Images/image8.jpg)
+![Image alt](assets/https://github.com/Aryan2632/vsdRiscvSoc/blob/a332855ba537f0872d583cadbea23018801c4264/Images/image8.jpg)
 
 ## 2. Hello, RISC-V
 
