@@ -71,7 +71,6 @@ riscv32-unknown-elf-objcopy -O ihex hello.elf hello.hex
 | x10–x17  | a0–a7    | Args/returns  |
 | x5–x7    | t0–t2    | Temporaries   |
 
-![Image](assets/image13.jpg)
 
 ## 6. GDB Debugging
 
@@ -84,7 +83,8 @@ riscv32-unknown-elf-gdb hello.elf
 (gdb) info registers
 ```
 
-![Image](assets/image14.png)
+![Image alt](https://github.com/Aryan2632/vsdRiscvSoc/blob/199a879e3eb6d3e3d8991512933d697215d5fc36/Images/image7.jpg)
+![Image alt]()
 
 ## 7. Emulator Usage
 
