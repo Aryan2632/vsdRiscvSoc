@@ -126,7 +126,7 @@ volatile uint32_t* gpio = (uint32_t*)0x10012000;
 *gpio = 0x1;
 ```
 
-![Image alt]()
+![Image alt](https://github.com/Aryan2632/vsdRiscvSoc/blob/b731cb5a0d922a2c21d889c9833afdd0ed524423/Images/image17.jpg)
 
 ## 11. Linker Script Basics
 
@@ -137,7 +137,7 @@ SECTIONS {
 }
 ```
 
-![Image](assets/image19.png)
+![Image alt]()
 
 ## 12. Startup Code (crt0.S)
 
