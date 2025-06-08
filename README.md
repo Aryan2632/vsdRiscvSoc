@@ -104,6 +104,7 @@ riscv32-unknown-elf-gcc -O0 -S hello.c -o O0.s
 riscv32-unknown-elf-gcc -O2 -S hello.c -o O2.s
 ```
 
+![Image alt](https://github.com/Aryan2632/vsdRiscvSoc/blob/6f7843e2d06636da896d75b2eb5833aaff92f7d1/Images/image5.jpg)
 ![Image alt]()
 
 ## 9. Inline Assembly
