@@ -84,7 +84,7 @@ riscv32-unknown-elf-gdb hello.elf
 ```
 
 ![Image alt](https://github.com/Aryan2632/vsdRiscvSoc/blob/199a879e3eb6d3e3d8991512933d697215d5fc36/Images/image7.jpg)
-![Image alt]()
+![Image alt](https://github.com/Aryan2632/vsdRiscvSoc/blob/33b3805b937af46ea16c35285f197fe8a41263d6/Images/image11.jpg)
 
 ## 7. Emulator Usage
 
@@ -94,7 +94,7 @@ spike --isa=rv32imc pk hello.elf
 qemu-system-riscv32 -nographic -kernel hello.elf
 ```
 
-![Image](assets/image15.jpg)
+![Image alt]()
 
 ## 8. GCC Optimization
 
