@@ -33,7 +33,7 @@ riscv32-unknown-elf-gcc -march=rv32imc -mabi=ilp32 -o hello.elf hello.c
 file hello.elf
 ```
 
-![Image](assets/image10.jpg)
+![Image alt](https://github.com/Aryan2632/vsdRiscvSoc/blob/5baa72d367e8fc7867f5467adcdee7b1ad266105/Images/image4.jpg)
 
 ## 3. C to Assembly
 
