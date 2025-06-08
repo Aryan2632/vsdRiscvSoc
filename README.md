@@ -58,7 +58,8 @@ riscv32-unknown-elf-objdump -d hello.elf > hello.dump
 riscv32-unknown-elf-objcopy -O ihex hello.elf hello.hex
 ```
 
-![Image](assets/image12.jpg)
+![Image alt](https://github.com/Aryan2632/vsdRiscvSoc/blob/c6af0f14ead338576c6221b1c82d050fcb592529/Images/image15.jpg)
+![Image alt]()
 
 ## 5. RISC-V Register ABI
 
